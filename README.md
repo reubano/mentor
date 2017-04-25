@@ -82,13 +82,15 @@ It obviously won't make sense for me to mentor you in an area I'm not strong in.
 - Python
   * [Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
   * [Python tutorial](https://docs.python.org/3.6/tutorial/index.html)
+  * [Flask](https://www.dropbox.com/sh/hyrn91ov0gw96ic/AADJ-MujowB0k3HX3LQ-sOsVa?dl=0) (dropbox)
 - Misc
   * [why-i-wont-use-your-open-source-project](https://changelog.com/top-ten-reasons-why-i-wont-use-your-open-source-project/)
+  * [Database](https://www.dropbox.com/sh/z8yq8xekqn90jte/AABoDWCj6vbfiPPMCKEHXDlza?dl=0) (dropbox)
 - APIs
-  * [ten-reasons-developers-hate-your-api](http://www.slideshare.net/jmusser/ten-reasons-developershateyourapi)
-  * [dropbox files](https://www.dropbox.com/sh/a8a7ypxz8vmm6eb/AADehB_-w83Xj-CAwz33TBcUa?dl=0)
+  * [ten-reasons-developers-hate-your-api](http://www.slideshare.net/jmusser/ten-reasons-developershateyourapi) (slides)
+  * [REST](https://www.dropbox.com/sh/6fh1v8c5r4e4e82/AADeykLEynCj63S30E6gc6cUa?dl=0) (dropbox)
 - functional programming
-  * [Functional Thinking](https://www.youtube.com/watch?v=7aYS9PcAITQ)
+  * [Functional Thinking](https://www.youtube.com/watch?v=7aYS9PcAITQ) (video)
   * [pure-functions](http://www.sitepoint.com/functional-programming-pure-functions/)
 - data science
   * [FAQ](https://github.com/reubano/mentor/blob/master/faq.md)
