@@ -18,9 +18,9 @@ Once a month, I'll allocate 2 hours for a communal live-video session (skype/goo
 
 ### Self study
 
-- [ ] pick your primary SMART goal and create an [issue](https://github.com/reubano/metor/issues/new) 
-- [ ] read/view the [linked resources](#resources) and submit any questions as [issues](https://github.com/reubano/metor/issues/new)
-- [ ] select a [pinned repo](https://github.com/reubano) to contribute to and create an [issue](https://github.com/reubano/metor/issues/new)
+- [ ] pick your primary SMART goal and create an [issue](https://github.com/reubano/mentor/issues/new) 
+- [ ] read/view the [linked resources](#resources) and submit any questions as [issues](https://github.com/reubano/mentor/issues/new)
+- [ ] select a [pinned repo](https://github.com/reubano) to contribute to and create an [issue](https://github.com/reubano/mentor/issues/new)
 - [ ] read your selected repo's README and take note of any confusing or wording or code examples 
 - [ ] use your selected repo in a project
 - [ ] submit a PR to your selected repo
@@ -98,4 +98,4 @@ It obviously won't make sense for me to mentor you in an area I'm not strong in.
 
 This is a living document. Over time I will add worksheets, resources, and additional information. Please check this repo frequently to stay up-to-date. 
 
-Want to get started? Pick your primary SMART goal and select one of my pinned repos. Then create an [issue](https://github.com/reubano/metor/issues/new) with your selections. Finally, "watch" this repo to be notified of the upcoming office hours schedule.
+Want to get started? Pick your primary SMART goal and select one of my pinned repos. Then create an [issue](https://github.com/reubano/mentor/issues/new) with your selections. Finally, "watch" this repo to be notified of the upcoming office hours schedule.
