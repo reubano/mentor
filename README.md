@@ -6,7 +6,7 @@ This is a guidebook for those looking to become a developer mentee. It contains 
 
 ## Format
 
-I believe the best relationships are two-way, and mentoring is no exception. Therefore, in order to get the most out of a mentorship, you (the mentee) must have a [SMART](https://en.wikipedia.org/wiki/SMART_criteria) (Specific, Measurable, Achievable, Relevant, and Time-bound) goal for what you wish to accomplish. Your goal could be to develop a new API, get a job in a particular field,
+I believe the best relationships are two-way, and mentoring is no exception. Therefore, in order to get the most out of a mentorship, you (the mentee) must have a [SMART](https://en.wikipedia.org/wiki/SMART_criteria) (Specific, Measurable, Achievable, Relevant, and Time-bound) goal for what you wish to accomplish. Your goal could be to develop a new API, get a job in a particular field, etc.
 
 In exchange for helping you reach your goal, I ask for your assistance by contributing to one of my [pinned open source repos](https://github.com/reubano).
 
