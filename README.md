@@ -20,14 +20,14 @@ Once a month, I'll allocate 2 hours for a communal live-video session (skype/goo
 
 - [ ] pick your primary SMART goal and create an [issue](https://github.com/reubano/mentor/issues/new) 
 - [ ] read/view the [linked resources](#resources) and submit any questions as [issues](https://github.com/reubano/mentor/issues/new)
-- [ ] select a [pinned repo](https://github.com/reubano) to contribute to and create an [issue](https://github.com/reubano/mentor/issues/new)
-- [ ] read your selected repo's README and take note of any confusing or wording or code examples 
+- [ ] select a [pinned repo](https://github.com/reubano) to contribute to, then create an [issue](https://github.com/reubano/mentor/issues/new) indicating your selection
+- [ ] read your selected repo's README and take note of any confusing wording or code examples 
 - [ ] use your selected repo in a project
 - [ ] submit a PR to your selected repo
 
 ### Live sessions
 
-- [ ] review your goal
+- [ ] review your goal(s)
 - [ ] review your current progress
 - [ ] answer questions about the [linked resources](#resources) 
 - [ ] answer questions about your selected repo
